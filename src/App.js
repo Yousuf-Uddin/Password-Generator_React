@@ -53,7 +53,7 @@ function App() {
           </div>
         </div>
         <div className='mx-3 my-1 d-flex justify-content-between  '>
-          <label>Password Size</label>
+          <label>Password Length</label>
           <input type='number' max={20} min={8} value={passlen} onChange={(e) => setPasslen(e.target.value)} className='inputgrp' />
         </div>
         <div className='mx-3 my-1 d-flex justify-content-between font- '>
