@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-pass-generator/static/css/main.f6ed174d.css",
+    "main.js": "/random-pass-generator/static/js/main.0cff0880.js",
+    "static/js/453.deb99b5f.chunk.js": "/random-pass-generator/static/js/453.deb99b5f.chunk.js",
+    "index.html": "/random-pass-generator/index.html",
+    "main.f6ed174d.css.map": "/random-pass-generator/static/css/main.f6ed174d.css.map",
+    "main.0cff0880.js.map": "/random-pass-generator/static/js/main.0cff0880.js.map",
+    "453.deb99b5f.chunk.js.map": "/random-pass-generator/static/js/453.deb99b5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ed174d.css",
+    "static/js/main.0cff0880.js"
+  ]
+}
